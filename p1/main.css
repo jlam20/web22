@@ -18,9 +18,11 @@ h1 {
 }
 h2 {
   color: #ffffff;
+  margin: 20px auto;
 }
 h3 {
   color: #ffc03f;
+  margin: 20px auto 0px;
 }
 p {
   color: #ffffff;
