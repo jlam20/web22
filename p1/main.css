@@ -8,7 +8,9 @@ body {
   background-color: #1D1D1D;
 }
 main {
-  margin: 50px 100px;
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
 }
 h1 {
   margin: 25px auto;
