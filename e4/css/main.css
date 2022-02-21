@@ -1,0 +1,35 @@
+body {
+ margin: 150px 50px;
+ background-color: #f7cad5;
+}
+@media screen and (min-width: 768px) {
+  .desktop {
+    font-family: 'sofia-pro', sans-serif;
+    color: #f8879b;
+    text-align: center;
+    font-size: 5vw;
+  }
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  }
+  .mobile {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .desktop {
+    display: none;
+  }
+  img {
+  display: none;
+  }
+  .mobile {
+    font-family: 'sofia-pro', sans-serif;
+    color: #f8879b;
+    text-align: center;
+    font-size: 4vw;
+  }
+}
