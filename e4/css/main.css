@@ -5,7 +5,7 @@ body {
 @media screen and (min-width: 768px) {
   .desktop {
     font-family: 'sofia-pro', sans-serif;
-    color: #f8879b;
+    color: #f57588;
     text-align: center;
     font-size: 5vw;
   }
@@ -28,7 +28,7 @@ body {
   }
   .mobile {
     font-family: 'sofia-pro', sans-serif;
-    color: #f8879b;
+    color: #f57588;
     text-align: center;
     font-size: 4vw;
   }
